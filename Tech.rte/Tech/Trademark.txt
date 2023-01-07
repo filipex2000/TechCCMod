@@ -8,9 +8,9 @@ Weapon Dynamic Sound System MK1 - CompliSound™️
 Weapon Dynamic Sound System MK2 - CompliSoundV2™️
 
 Weapon Staged Reload System MK1 - CompliReload™️
-Weapon Staged Reload System MK2 - RealReload™️
+Weapon Staged Reload System MK2 - RealCompli™️Reload™️
 
 Weapon Recoil System - RealRecoil™️
-Weapon Delayed Fire System - DelayedFire
+Weapon Delayed Fire System - DelayedFire™️
 
 Advanced Pyrotechnic System - RealPyro™️

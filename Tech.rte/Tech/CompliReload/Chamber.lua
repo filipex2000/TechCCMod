@@ -427,18 +427,18 @@ function Update(self)
 		
 		-- -- ROTATION DEBUG GIZMO
 		-- pos = self.Pos + Vector(width + 30,-120)
-		-- local radius = 24
+		-- local IndividualRadius = 24
 		
-		-- PrimitiveMan:DrawCircleFillPrimitive(pos, radius + 1, 96)
-		-- PrimitiveMan:DrawCircleFillPrimitive(pos, radius, 240)
+		-- PrimitiveMan:DrawCircleFillPrimitive(pos, IndividualRadius + 1, 96)
+		-- PrimitiveMan:DrawCircleFillPrimitive(pos, IndividualRadius, 240)
 		
 		-- PrimitiveMan:DrawCirclePrimitive(pos, 1, 244);
 		
-		-- PrimitiveMan:DrawLinePrimitive(pos, pos + Vector(radius, 0):DegRotate(self.recoilMax), 161);
-		-- PrimitiveMan:DrawLinePrimitive(pos, pos + Vector(radius, 0):DegRotate(-self.recoilMax), 161);
+		-- PrimitiveMan:DrawLinePrimitive(pos, pos + Vector(IndividualRadius, 0):DegRotate(self.recoilMax), 161);
+		-- PrimitiveMan:DrawLinePrimitive(pos, pos + Vector(IndividualRadius, 0):DegRotate(-self.recoilMax), 161);
 		
-		-- PrimitiveMan:DrawLinePrimitive(pos, pos + Vector(radius, 0):DegRotate(self.rotationTarget), 46);
-		-- PrimitiveMan:DrawLinePrimitive(pos, pos + Vector(radius, 0):DegRotate(self.rotation), 244);
+		-- PrimitiveMan:DrawLinePrimitive(pos, pos + Vector(IndividualRadius, 0):DegRotate(self.rotationTarget), 46);
+		-- PrimitiveMan:DrawLinePrimitive(pos, pos + Vector(IndividualRadius, 0):DegRotate(self.rotation), 244);
 		-- -- ROTATION GIZMO END
 	-- end
 end
